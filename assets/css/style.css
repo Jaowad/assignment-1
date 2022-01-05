@@ -1,0 +1,148 @@
+
+body{
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-size: 18px;
+}
+.top-header-section{
+    width: 80%;
+    margin: 0 auto;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    
+    
+}
+.container{
+    max-width: 1420px;
+    width: 100%;
+    padding: 0px 40px;
+    margin: 0 auto;
+}
+.header-title{
+    margin-top: 50px;
+    width: 50%;
+    padding: 0;
+}
+.header-title h1{
+    padding-left: 8px;
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    font-size: 42px;
+    
+    
+}
+.header-title p{
+    margin-top: 20px;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+.link-button{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(231, 108, 108),rgb(126, 126, 158));
+    padding: 10px 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.green{
+    color: rgb(161, 207, 91);
+}
+.header-img{
+    margin-top: 50px;
+    text-align: center;
+    width: 90%;
+    padding-left: 20px;
+}
+.header-img img{
+    width: 40%;
+}
+.mission-section{
+    padding-left: 50px;
+    text-align: center;
+    width: 80%;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.mission-title{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.contents{
+    width: 32%;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 20px;
+    background-image: linear-gradient(rgb(167, 161, 245),rgb(216, 206, 206));
+    text-align: left;
+}
+.contents img{
+    width: 40%;
+    margin-bottom: 5px;
+}
+.contents h2{
+    margin-bottom: 10px;
+}
+.img-doc{
+    width: 50%;
+}
+.img-doc img{
+    width: 80%;
+}
+.documentation-section{
+    width: 80%;
+    margin: 0 auto;
+}
+.detail-doc{
+    width: 40%;
+    margin-bottom: 20px;
+}
+.detail-doc h1{
+    font-size: 40px;
+}
+.detail-doc p{
+    
+    margin-bottom: 50px;
+    text-align: justify;
+}
+.community-section{
+    width: 80%;
+    margin: 0 auto;
+}
+.community-details{
+    width: 50%;
+    margin-bottom: 20px;
+}
+.community-details h1{
+    font-size: 40px;
+}
+.community-details p{
+    padding-bottom: 20px;
+}
+.community-img{
+    width: 50%;
+    margin-left: 20px;
+}
+.community-img img{
+    width: 80%;
+}
+.mission{
+    
+    text-align: center;
+    background-color: indigo;
+}
+.footer-content{
+    padding: 15px;
+}
+.footer-content h2{
+    font-size: 35px;
+    color: ivory;
+}
+.footer-content p{
+    color: ivory;
+}
