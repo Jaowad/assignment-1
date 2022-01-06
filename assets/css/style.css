@@ -85,6 +85,12 @@ p{
     width: 40%;
     margin-bottom: 5px;
 }
+.card-clr{
+    background-image: linear-gradient( #ffeeee,rgb(216, 206, 206));
+}
+.card-clr2{
+    background-image: linear-gradient(#fff4d6, rgb(216, 206, 206));
+}
 .contents h2{
     margin-bottom: 10px;
 }
