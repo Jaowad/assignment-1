@@ -110,7 +110,7 @@ p{
     margin-bottom: 50px;
     text-align: justify;
 }
-.community-section{
+.community-section, .about-section{
     width: 80%;
     margin: 0 auto;
 }
@@ -126,15 +126,16 @@ p{
 }
 .community-img{
     width: 50%;
+    
     margin-left: 20px;
 }
 .community-img img{
     width: 80%;
 }
-.mission{
+.footer-mission{
     
     text-align: center;
-    background-color: indigo;
+    background-color: rgb(18, 3, 29);
 }
 .footer-content{
     padding: 15px;
@@ -145,4 +146,24 @@ p{
 }
 .footer-content p{
     color: ivory;
+}
+.about-txt{
+    width: 50%;
+    padding: 50px;
+    text-align: justify;
+}
+.about-txt p{
+    padding-bottom: 30px;
+}
+.about-img{
+    width: 50%;
+    padding: 50px;
+}
+.about-img img{
+    width: 100%;
+    border-radius: 15px;
+}
+.about-title{
+    text-align: center;
+    font-size: 30px;
 }
